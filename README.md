@@ -23,16 +23,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Configuration and Deployment Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://github.com/user-attachments/assets/d17fa066-b640-4a0e-bafd-52713e134f09)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 1. Create a resource group within Microsoft Azure.
 
-><p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
-
+(https://github.com/user-attachments/assets/d17fa066-b640-4a0e-bafd-52713e134f09)
 
 </p>
 <br />
