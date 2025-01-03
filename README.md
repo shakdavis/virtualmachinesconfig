@@ -22,22 +22,34 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Configuration and Deployment Steps</h2>
 
-<p> Step 1. Create a resource group within Microsoft Azure.
-
-
-<img src="https://github.com/user-attachments/assets/d17fa066-b640-4a0e-bafd-52713e134f09" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left"> Step 1. Create a resource group inside Microsoft Azure</p>
+<p> > Once login to Azure, you'll see the landing page. It is from here where you'd be able to locate the different services that Azure has to offer. </p>
+<p> > You could either search for *Resource Groups in the search engine at the top of the page or click on the shortcut. </p>
+<p> > Once on the Resource Group landing page, you're going to go to *Create </p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/6d46ff79-29c5-4cfb-8b7a-ea801e5f0c77" height="80%" width="80%" alt="Disk Sanitization Steps" />
 </p>
-<p>
 
+<br>
+
+<p> Step 2. Naming your Resource Group and Setting the Deployment Region </p>
+<p> > You can name your RG anything you'd like </p>
+<p> > When setting the region of deployment, you could choose any region but you'd want to consider a few factors: i.e network connectivity, cost considerations, service availability, etc. </p>
+<p> > Once you name RG and select the region of deployment, select *Review & Create* </p>
+<p> > Your RG now goes through a validation phase. Once it passes validation, you may now select *Create* to create your RG.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d17fa066-b640-4a0e-bafd-52713e134f09" height="80%" width="80%" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/a96500ac-dc6d-4b47-8de2-b8a92db69dc8" height="80%" width="80%" alt="Disk Sanitization Steps" />
 </p>
-<br />
+</br>
 
-<p>
+<br>
+<p> Step 3. Creating your Virtual Machine(s)</p>
+<p> > Using Azure resource landing page, you could use the search box or find the shortcut to select Virtual Machines.</p>
+<p> > Once on the Create a Virtual Machine landing page  </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
 <br />
 
 <p>
