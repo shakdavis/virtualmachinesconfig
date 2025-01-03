@@ -12,13 +12,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 
+<br>
+
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro, version 22H2
 
+
+</b>
+<br>
 <h2>List of Prerequisites</h2>
 
 - Azure Tenant and Subscription
+
+</br>
 
 <h2>Configuration and Deployment Steps</h2>
 
@@ -46,7 +53,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br>
 <p> Step 3. Creating your Virtual Machine(s)</p>
 <p> > Using Azure resource landing page, you could use the search box or find the shortcut to select Virtual Machines.</p>
-<p> > Once on the Create a Virtual Machine landing page  </p>
+<p> > Once on the Create a Virtual Machine landing page, be sure the subscription textbox is filled out with the appropriate subscription.</p>
+<p> > In the Resource Group textbox, be sure to choose the RG that you created previously.
+<p> > Virtual machine name: Choose it wisely. Try not to make it complicated.
+<p> > Region: Choose the same region as you did when setting up your RG.</p>
+<p> > Image: Choose the operating system based on your needs. In the sample photo, Windows 10 Pro, 
+        version 22H2 was used. </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
