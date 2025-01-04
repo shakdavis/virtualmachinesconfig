@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/2b4e7618-3ee1-462e-a84f-a4bf83d7ae15" height="40%" width="80%" />
 </p>
 <br>
-<h1> Resource Group & Virtual Machine - Configuration & Deployment </h1>
+<h1>Resource Group & Virtual Machine - Configuration & Deployment</h1>
 
 This step-by-step tutorial outlines the prerequisites, configuration, and deployment of a resource group and virtual machine using Microsoft Azure.
 </br>
