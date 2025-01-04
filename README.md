@@ -1,11 +1,11 @@
 # virtualmachinesconfig
 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://github.com/user-attachments/assets/2b4e7618-3ee1-462e-a84f-a4bf83d7ae15" height="40%" width="80%" />
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites, configuration and deployment of a virtual machine using Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -101,3 +101,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p> > All resources should be deployed in the same location, i.e. Canada East
 <img src="https://github.com/user-attachments/assets/60b035ec-d1f5-40e3-9eca-7f279089f8a7"/>
 </p>
+</br>
+
+<p align="center"> Congratulations! You have successfully configured and deployed a virtual machine using Microsoft Azure!</p>
