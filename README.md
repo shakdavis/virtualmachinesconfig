@@ -107,4 +107,4 @@ This step-by-step tutorial outlines the prerequisites, configuration, and deploy
 </p>
 </br>
 
-<p align="center"> Congratulations! You have successfully configured and deployed a virtual machine using Microsoft Azure!</p>
+<p align="center"> Congratulations! You have successfully configured and deployed a resource group & virtual machine using Microsoft Azure!</p>
