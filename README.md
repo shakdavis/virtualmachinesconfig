@@ -84,13 +84,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 </br>
 <br>
-<p>
+
 <p> Step 5. Deploying Virtual Machine</p>
-<p> > After creating your credentials for your vm's Administrator Account, select "Next: Disk>" and "Next: Networking>"</p>
-<p> > On the Networking page it shows the name of your virtual network that will be auto-created along with the vm. Select "Review & Create"</p>
-<p> > Once your vm passed its validation phase, select "Create"</p>
+<p> > After creating your credentials for your vm's Administrator Account, select "Next: Disk>" and "Next: Networking>".</p>
+<p> > On the Networking page it shows the name of your virtual network that will be auto-created along with the vm. Select "Review & Create".</p>
+<p> > You'll then be directed to the Management page which shows your vm validation and pricing information. Once your vm passed its validation phase, select "Create".</p>
 <p>
 <img src="https://github.com/user-attachments/assets/db00919b-df92-4b62-a8a5-10439298b27a"/>
 <img src="https://github.com/user-attachments/assets/2926780a-65ed-4259-a182-b50dbd69849c"/>
 </p>
 </br>
+<br>
+
+<p> Step 5. Deploying Virtual Machine</p>
+<p> > After creating your credentials for your vm's Administrator Account, select "Next: Disk>" and "Next: Networking>".</p>
+<p> > On the Networking page it shows the name of your virtual network that will be auto-created along with the vm. Select "Review & Create".</p>
+<p> > You'll then be directed to the Management page which shows your vm validation and pricing information. Once your vm passed its validation phase, select "Create".</p>
+<p>
+<img src="https://github.com/user-attachments/assets/db00919b-df92-4b62-a8a5-10439298b27a"/>
+<img src="https://github.com/user-attachments/assets/2926780a-65ed-4259-a182-b50dbd69849c"/>
+</p>
